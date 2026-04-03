@@ -42,9 +42,9 @@ The App Brewery - iOS Development Bootcamp
 ## Скриншоты
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github.com/user-attachments/assets/98b3dab9-29a4-4f20-8d85-c66ee46fc9dc" alt="Screenshot 1" width="30%" />
-    <img src="https://github.com/user-attachments/assets/721c9f2d-3845-4a9e-a102-f7e247d2bc9d" alt="Screenshot 2" width="30%" />
-    <img src="https://github.com/user-attachments/assets/f16ef27b-cd87-40ce-8559-126abfd8ccb1" alt="Screenshot 3" width="30%" />
+    <img src="https://github.com/user-attachments/assets/7e374d06-3229-4604-be7f-ce9da6d75b3b" alt="Screenshot 1" width="30%" />
+    <img src="https://github.com/user-attachments/assets/aaa5033f-e872-4787-9a57-3dd9d0340e75" alt="Screenshot 2" width="30%" />
+    <img src="https://github.com/user-attachments/assets/a5d8cd7a-5120-40f0-b4d5-46ad74d33d91" alt="Screenshot 3" width="30%" />
 </div>
 
 ---
@@ -91,7 +91,7 @@ Code implemented by Arina Agafonova for educational purposes.
 ## Screenshots
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github.com/user-attachments/assets/98b3dab9-29a4-4f20-8d85-c66ee46fc9dc" alt="Screenshot 1" width="30%" />
-    <img src="https://github.com/user-attachments/assets/721c9f2d-3845-4a9e-a102-f7e247d2bc9d" alt="Screenshot 2" width="30%" />
-    <img src="https://github.com/user-attachments/assets/f16ef27b-cd87-40ce-8559-126abfd8ccb1" alt="Screenshot 3" width="30%" />
+    <img src="https://github.com/user-attachments/assets/7e374d06-3229-4604-be7f-ce9da6d75b3b" alt="Screenshot 1" width="30%" />
+    <img src="https://github.com/user-attachments/assets/aaa5033f-e872-4787-9a57-3dd9d0340e75" alt="Screenshot 2" width="30%" />
+    <img src="https://github.com/user-attachments/assets/a5d8cd7a-5120-40f0-b4d5-46ad74d33d91" alt="Screenshot 3" width="30%" />
 </div>
