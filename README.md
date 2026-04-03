@@ -42,9 +42,9 @@ The App Brewery - iOS Development Bootcamp
 ## Скриншоты
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github.com/user-attachments/assets/1ea185d5-f602-4fd5-99a5-185010743dfe" alt="Quizzler screenshot 1" width="30%" />
-    <img src="https://github.com/user-attachments/assets/b0347c52-fb81-4165-af22-a46ff95987cb" alt="Quizzler screenshot 2" width="30%" />
-    <img src="https://github.com/user-attachments/assets/4c29e736-8a54-469e-a1bc-15a5085e1243" alt="Quizzler screenshot 3" width="30%" />
+    <img src="https://github.com/user-attachments/assets/98b3dab9-29a4-4f20-8d85-c66ee46fc9dc" alt="Screenshot 1" width="30%" />
+    <img src="https://github.com/user-attachments/assets/721c9f2d-3845-4a9e-a102-f7e247d2bc9d" alt="Screenshot 2" width="30%" />
+    <img src="https://github.com/user-attachments/assets/f16ef27b-cd87-40ce-8559-126abfd8ccb1" alt="Screenshot 3" width="30%" />
 </div>
 
 ---
@@ -91,7 +91,7 @@ Code implemented by Arina Agafonova for educational purposes.
 ## Screenshots
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github.com/user-attachments/assets/1ea185d5-f602-4fd5-99a5-185010743dfe" alt="Quizzler screenshot 1" width="30%" />
-    <img src="https://github.com/user-attachments/assets/b0347c52-fb81-4165-af22-a46ff95987cb" alt="Quizzler screenshot 2" width="30%" />
-    <img src="https://github.com/user-attachments/assets/4c29e736-8a54-469e-a1bc-15a5085e1243" alt="Quizzler screenshot 3" width="30%" />
+    <img src="https://github.com/user-attachments/assets/98b3dab9-29a4-4f20-8d85-c66ee46fc9dc" alt="Screenshot 1" width="30%" />
+    <img src="https://github.com/user-attachments/assets/721c9f2d-3845-4a9e-a102-f7e247d2bc9d" alt="Screenshot 2" width="30%" />
+    <img src="https://github.com/user-attachments/assets/f16ef27b-cd87-40ce-8559-126abfd8ccb1" alt="Screenshot 3" width="30%" />
 </div>
